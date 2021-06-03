@@ -16,6 +16,5 @@ used in most android vpn & tunneling apks
 * Delta and secret key
 
 * Url of encrypted data 
-  https://pastebin.com/raw/1kp9a7yt
-
+  
 -------------------------------
