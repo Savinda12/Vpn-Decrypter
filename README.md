@@ -18,3 +18,9 @@ used in most android vpn & tunneling apks
 * Url of encrypted data 
   
 -------------------------------
+
+## :book: How To Use
+
+* Encryption : python xxtea.py encrypt
+
+* Decryption : python xxtea.py decrypt
